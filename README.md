@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=kylekun&show_icons=true">
 
-<!--
-**KyleKun/KyleKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Caio 😄
 
-Here are some ideas to get you started:
+[![https://kylekun.github.io/](https://img.shields.io/static/v1?label=portfolio&message=%20&color=blue&logo=&style=flat-square&logoColor=white)](https://kylekun.github.io/)
+[![caiofapedroso@gmail.com](https://img.shields.io/static/v1?label=e-mail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:caiofapedroso@gmail.com)
+  
+  
+👨‍💻 19yo Software Developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Intern at Samsung R&D Institute Brazil (SRBR)
+
+💙 Currently working with **Flutter** and **Python**
+
+
