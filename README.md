@@ -10,6 +10,6 @@
 
 💻 Intern at Samsung R&D Institute Brazil (SRBR)
 
-💙 Currently working with **Flutter** and **Python**
+<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> Currently working with **Flutter** and **Python**
 
 
