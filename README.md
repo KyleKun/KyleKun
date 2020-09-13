@@ -6,7 +6,7 @@
 [![caiofapedroso@gmail.com](https://img.shields.io/static/v1?label=e-mail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:caiofapedroso@gmail.com)
   
   
-👨‍💻 19yo Software Developer 
+👨‍💻 Software Developer 
 
 💻 Intern at Samsung R&D Institute Brazil (SRBR)
 
