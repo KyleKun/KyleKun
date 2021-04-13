@@ -6,4 +6,6 @@
 [![kylekundev@gmail.com](https://img.shields.io/static/v1?label=e-mail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:kylekundev@gmail.com)
 
 
+💙 Currently building stuff with **Flutter**
 
+💻 Jr Software Analyst at Instituto de Pesquisas Eldorado
