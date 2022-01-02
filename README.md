@@ -6,4 +6,4 @@
 
 
 - <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> Flutter Dev at Eldorado Research Institute
-- 🕹️ Learning about Mobile Game Development
+- 🕹️ Learning about Game Development
