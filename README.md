@@ -4,4 +4,4 @@
 
 
 - I'm a Flutter Dev at Eldorado Research Institute
-- I enjoy making random mobile games
+- I enjoy making random games
